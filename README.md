@@ -35,7 +35,4 @@ O objetivo é **apoiar decisões de negócio** sobre quais mercados priorizar em
 - **Brasil e Bahrein devem ser despriorizados** → clientes não voltam após a primeira compra.  
 - **Mercados de baixo LTV mas churn baixo (ex. Polónia, Malta)** → clientes leais, mas de baixo valor → oportunidade para upsell.  
 
-Este projeto demonstra como um Data Product Manager pode estruturar dados brutos em métricas acionáveis (LTV, churn), gerar insights estratégicos e propor um roadmap de evolução do produto de dados.  
-Mais do que análises técnicas, o valor está em **conectar métricas a decisões de negócio**: onde investir, onde reter e onde despriorizar.  
-
 
