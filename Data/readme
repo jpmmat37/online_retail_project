@@ -1,0 +1,5 @@
+## Dataset ##
+
+Este projeto utiliza o dataset **Online Retail** disponível no [UCI Machine Learning Repository]*(https://archive.ics.uci.edu/dataset/352/online+retail)*.
+
+O ficheiro original (`OnlineRetail.xlsx`) está incluído nesta pasta para conveniência.
