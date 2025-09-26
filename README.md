@@ -19,7 +19,7 @@ O objetivo é **apoiar decisões de negócio** sobre quais mercados priorizar em
 - **Churn rate** = % de clientes que não realizaram compras nos últimos 180 dias.  
 - **Cohorts de retenção** = grupos de clientes por mês de aquisição, acompanhados ao longo do tempo.  
 
-### Conclusões
+# Conclusões
 
 ### Mercados com maior churn (clientes perdidos)
 - Brasil, Bahrein, Lituânia, Líbano → churn de 100% (clientes não retornaram).  
